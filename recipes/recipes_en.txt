@@ -133,6 +133,13 @@ IMDb
 		_ 1st-party frame
 		_ amazonaws.com script
 
+Invidious (Snopyta)
+	* invidious.snopyta.org
+		_ invidious.snopyta.org media
+		_ invidious.snopyta.org script
+		_ invidious.snopyta.org fetch
+		_ invidious.snopyta.org frame
+
 JSFiddle
 	jsfiddle.net *
 		_ 1st-party script
