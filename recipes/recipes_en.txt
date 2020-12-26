@@ -135,6 +135,8 @@ IMDb
 
 Invidious (Snopyta)
 	* invidious.snopyta.org
+		_ invidious.snopyta.org css
+		_ invidious.snopyta.org image
 		_ invidious.snopyta.org media
 		_ invidious.snopyta.org script
 		_ invidious.snopyta.org fetch
